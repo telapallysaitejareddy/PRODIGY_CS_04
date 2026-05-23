@@ -1,0 +1,23 @@
+
+hello
+ [Key.ctrl_l] \x13 [Key.ctrl_l] \x1a\x1a\x1a\x1aellohello [Key.ctrl_l] \x16
+hheellloo
+
+ [Key.ctrl_l]  [Key.ctrl_l] \x03\x03 [Key.print_screen]  [Key.print_screen]  [Key.esc]  [Key.ctrl_l]  [Key.ctrl_l] \x16\x16 [Key.ctrl_l]  [Key.ctrl_l] \x1a\x1a [Key.ctrl_l]  [Key.ctrl_l] \x1a\x1a [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.ctrl_l] \x16\x16
+
+hheellllllooo
+ [Key.print_screen]  [Key.print_screen]  [Key.ctrl_l]  [Key.ctrl_l] \x16
+ [Key.print_screen]  [Key.print_screen]  [Key.print_screen]  [Key.ctrl_l]  [Key.ctrl_l] \x16\x16\x16
+
+llliiinnkkiiddeennn  
+
+aas  ttaasjjj [Key.backspace]  [Key.backspace]  [Key.backspace] kkk   44 [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l] \x03\x03\x03 [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l] \x16\x16\x16
+
+ [Key.right]  [Key.right]  [Key.right]  [Key.right]  [Key.right]  [Key.right]  [Key.right]  [Key.right]  [Key.right]  [Key.right]  [Key.left]  [Key.left]  [Key.ctrl_l]  [Key.ctrl_l] \x16\x16\x16
+
+
+ [Key.ctrl_l]  [Key.ctrl_l] \x16\x16
+
+
+ [Key.backspace]  [Key.backspace]  [Key.ctrl_l]  [Key.ctrl_l] \x16\x16
+
